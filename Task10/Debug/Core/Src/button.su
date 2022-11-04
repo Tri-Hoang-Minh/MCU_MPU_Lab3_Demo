@@ -1,0 +1,6 @@
+button.c:26:6:button_reading	16	static
+button.c:54:15:get_button2_value	4	static
+button.c:59:15:is_button_pressed_1s	4	static
+button.c:64:5:is_button1_Press	8	static
+button.c:77:5:is_button2_Press	8	static
+button.c:91:5:is_button3_Press	8	static

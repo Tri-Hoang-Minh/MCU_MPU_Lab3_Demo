@@ -1,0 +1,4 @@
+Finite_State_Machine.h.c:22:6:fsm_processing	8	static
+Finite_State_Machine.h.c:112:6:inscreases_time	4	static
+Finite_State_Machine.h.c:141:6:inscreases_time_after_1s	8	static
+Finite_State_Machine.h.c:150:6:blinking_led_2Hz	8	static
